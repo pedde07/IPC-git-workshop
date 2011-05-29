@@ -1,1 +1,1 @@
-<?php echo 'Your Mom!'; ?>
+<?php echo "hello world";
